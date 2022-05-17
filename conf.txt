@@ -1,2 +1,6 @@
+conflict resolved
 this is local conf.
 this is last.
+this is conflict.
+this is final.
+
